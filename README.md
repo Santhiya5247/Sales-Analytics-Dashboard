@@ -12,5 +12,5 @@ Interactive Sales Analytics Dashboard built using Microsoft Power BI.
 
 ## Files
 - Sales Analytics Dashboard.pbix
-- SalesData.xlsx
+- SalesDataset.xlsx
 - Dashboard.png
